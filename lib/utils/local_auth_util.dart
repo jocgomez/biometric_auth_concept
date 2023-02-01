@@ -1,6 +1,6 @@
 import 'package:local_auth/local_auth.dart';
 
-class LocalAuthUtils {
+class LocalAuthUtil {
   final LocalAuthentication auth = LocalAuthentication();
 
   /// Verifica si el dispositivo soporta biometria

@@ -1,6 +1,6 @@
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 
-class SecureStorageUtils {
+class SecureStorageUtil {
   static const FlutterSecureStorage _storage = FlutterSecureStorage();
 
   /// Obtiene el valor del almacenamiento seguro a partir de una llave
